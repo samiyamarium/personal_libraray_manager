@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Harry potter",
+        "author": "j.k.rowling",
+        "Publication year": "2000",
+        "Genre": "fiction",
+        "Read": "True"
+    },
+    {
+        "title": "The Kite runner",
+        "author": "Khalid hosseini",
+        "Publication year": "2003",
+        "Genre": "Friendship",
+        "Read": "FALSE"
+    },
+    {
+        "title": "Mushaf",
+        "author": "Nimra Ahmed",
+        "Publication year": 2009,
+        "Genre": "novel",
+        "Read": true
+    }
+]
